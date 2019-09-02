@@ -27,6 +27,8 @@ app.on('ready', function() {
   // and load the index.html of the app.
   mainWindow.loadUrl('file://' + __dirname + '/index.html');
 
+  mainWindow.setMenuBarVisibility(false)
+
   // Open the DevTools.
   // mainWindow.openDevTools();    // requires a height 410px 
 
