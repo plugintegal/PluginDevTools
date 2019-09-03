@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinjackson/electron-run-shell-example.git"
+    "url": "git+https://github.com/dhiyo7/PluginDevTools"
   },
   "keywords": [
     "electron",
